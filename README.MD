@@ -25,5 +25,5 @@ I learned how to build this game with Youtuber [Code with Ania Kubów](https://w
 - arrow functions
 - forEach 👀
 - setting time intervals and countdowns
-- 
+
 
